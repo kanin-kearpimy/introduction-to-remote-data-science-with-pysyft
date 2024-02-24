@@ -1,0 +1,11 @@
+_id,duration,distance,average_heart_rate,weight,age,id,name,status,award
+65a624d10e732803cec9f968,45,5.2,140,68,10,1,John,strong,golden runner
+65a624d10e732803cec9f969,30,3.8,125,70,10,2,Alice,strong,
+65a624d10e732803cec9f96a,60,7.5,150,65,40,3,Bob,,golden runner
+65a624d10e732803cec9f96b,40,10,160,65,10,4,Emily,strong,
+65a624d10e732803cec9f96c,55,6,142,65,45,5,David,,golden runner
+65a624d10e732803cec9f96d,25,2.5,120,60,10,6,Sophia,strong,
+65a624d10e732803cec9f96f,35,4,130,69,10,8,Olivia,strong,
+65a624d10e732803cec9f970,48,5.5,145,71,10,9,Michael,strong,golden runner
+65a624d10e732803cec9f971,42,4.7,138,67,10,10,Emma,normal,
+65aa37e30df0538cda1118e0,45,5.2,200,65,30,1,Christ,,golden runner
